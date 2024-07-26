@@ -2,7 +2,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const readline = require('readline');
 
 // Gemini API 키 설정
-const API_KEY = "";
+const API_KEY = "AIzaSyB1m7RmjoJx2VV0aMj88PVUkP0xUIQvqik";
 
 // Gemini API 초기화
 const genAI = new GoogleGenerativeAI(API_KEY);
